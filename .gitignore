@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+####################################################################################################################################################
+OBSERVABLE
+.DS_Store
+/dist/
+node_modules/
+yarn-error.log
+
+ADDED
+
+credentials/
+ManualdeInstalacao.md
